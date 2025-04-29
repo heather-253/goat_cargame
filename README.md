@@ -1,5 +1,11 @@
 # 🐐 Goat Crash
 
+[![Play Goat Crash](https://img.shields.io/badge/Play-Goat_Crash-green?style=for-the-badge&logo=python)](https://github.com/heather-253/goat_cargame)
+
+<table>
+<tr>
+<td>
+
 **Goat Crash** is a fast-paced arcade game built with Python and Pygame.  
 Dodge falling goats to rack up points — but be careful: the speed keeps increasing the longer you survive!
 
@@ -14,17 +20,27 @@ Dodge falling goats to rack up points — but be careful: the speed keeps increa
   - Press **R** to restart
   - Press **Q** to quit
 
+</td>
+<td>
+<p align="right">
+  <img src="gameplay.gif" alt="Goat Crash Gameplay" width="300">
+</p>
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠 Files Included
 This repository contains:
 - `game.py` — the Python source code
 - `game.exe` — the standalone Windows executable (no Python required)
-- `/assets/` — folder containing images and sounds (needed for the game)
+- `/assets/` — folder containing images (needed for the game)
 
 ✅ You can run either the `.py` file or the `.exe` — whichever you prefer!
 
 ---
+
 
 ## 📦 How to Run the Game
 
